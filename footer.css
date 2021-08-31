@@ -1,0 +1,11 @@
+.footer {
+    background-color: chartreuse;
+}
+
+a {
+    color: rgb(173, 72, 0)
+}
+
+a:hover {
+    color: rgb(22, 4, 87)
+}

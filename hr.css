@@ -1,0 +1,6 @@
+hr {
+    height: 50px;
+    width: 350px;
+    background: linear-gradient(45deg, rgb(255, 128, 238), rgb(236, 212, 101));
+    border-radius: 75px;
+}
